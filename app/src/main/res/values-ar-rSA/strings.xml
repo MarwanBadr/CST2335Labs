@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Marwan Badr\'s Labs</string>
+    <string name="hello_message">"مرحبا بالعالم "</string>
+    <string name="button_message">"أنا زر انقر هنا "</string>
+</resources>
